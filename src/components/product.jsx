@@ -91,7 +91,7 @@ const AppProduct = () => {
             <section>
                 <h3 className="font-roboto text-[16px] font-semibold text-customGrey">Alex Morningstar</h3>
                 <h4 className="font-roboto text-[14px] font-normal text-customGrey">Contrary to popular belief</h4>
-                <p className="font-roboto text-[12px] font-thin text-customGrey w-[60%]">lorem ipsum is not simply random text. it has root in a piece of classical Latin</p>
+                <p className="font-roboto text-[12px] font-thin text-customGrey w-[60%]">lorem ipsum is not simply random text.<br/> it has root in a piece of classical Latin</p>
             </section>
             <section className="flex">
             <MdOutlineStarPurple500   className="text-[#1565C0]  h-[25px] w-[30px]" />
